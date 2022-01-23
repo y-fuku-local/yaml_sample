@@ -1,0 +1,8 @@
+SAMPLE_PARAM1:
+  param1: test1
+  param2: 2
+  param3: 3
+SAMPLE_PARAM2:
+  param1: 1
+  param2: 2
+  param3: 4
